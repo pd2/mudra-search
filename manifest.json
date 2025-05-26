@@ -1,7 +1,7 @@
 {
   "name": "Mudra search",
   "short_name": "MudraSearch",
-  "start_url": "https://mudra-search.glitch.me/",
+  "start_url": "https://pd2.github.io/mudra-search/",
   "icons": [
     {
       "src": "https://cdn.glitch.global/a2909de0-1e5d-4c2e-8f79-181ca5dfdeda/mudra-icon.png",
