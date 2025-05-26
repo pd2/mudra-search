@@ -19,7 +19,7 @@
     <meta charset="utf-8" >
     <meta name="viewport" content="width=device-width, initial-scale=1" >
     <link rel="icon" href="https://cdn.glitch.global/a2909de0-1e5d-4c2e-8f79-181ca5dfdeda/mudra-icon.png"  type="image/x-icon">
-    <link rel="manifest" href="/manifest.json" >
+    <link rel="manifest" href="manifest.json" >
 
     <!--
       This is the page head - it contains info the browser uses
@@ -29,12 +29,12 @@
     <title>Mudra search</title>
 
     <!-- The website stylesheet -->
-    <link rel="stylesheet" href="/style.css" >
+    <link rel="stylesheet" href="style.css" >
 
     <!-- The website JavaScript file -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     
-    <script src="/script.js" defer></script>
+    <script src="script.js" defer></script>
   </head>
   
   <body>
@@ -76,7 +76,7 @@
       if ("serviceWorker" in navigator) {
         window.addEventListener("load", function() {
           navigator.serviceWorker
-            .register("/serviceWorker.js")
+            .register("serviceWorker.js")
             .then(res => console.log("service worker registered"))
             .catch(err => console.log("service worker not registered", err))
         })
