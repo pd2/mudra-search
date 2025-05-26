@@ -2,9 +2,9 @@ const staticDev = "mudra_search"
 const service_worker_version = "v1.04"
 const assets = [
   "/",
-  "/index.html",
-  "/style.css",
-  "/script.js"
+  "index.html",
+  "style.css",
+  "script.js"
 ]
 
 self.addEventListener("install", installEvent => {
