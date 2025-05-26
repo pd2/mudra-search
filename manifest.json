@@ -1,0 +1,16 @@
+{
+  "name": "Mudra search",
+  "short_name": "MudraSearch",
+  "start_url": "https://mudra-search.glitch.me/",
+  "icons": [
+    {
+      "src": "https://cdn.glitch.global/a2909de0-1e5d-4c2e-8f79-181ca5dfdeda/mudra-icon.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#99ccff",
+  "background_color": "#99ccff",
+  "display": "fullscreen",
+  "orientation": "portrait"
+}
