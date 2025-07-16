@@ -1153,7 +1153,7 @@ function shuffle(array) {
 
 function ShareIt() {
   
-  let linkURL = "https://mudra-search.glitch.me";
+  let linkURL = "https://pd2.github.io/mudra-search/";
   
   let copyText = `I solved #Mudra search in a letter grid game to learn about ${global_clues[0]} Bharatanatyam mudra in ${Math.round(elapsedTime/1000)} sec at ${linkURL}`;
   
