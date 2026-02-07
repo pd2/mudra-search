@@ -1,5 +1,5 @@
 const staticDev = "mudra_search"
-const service_worker_version = "v1.04"
+const service_worker_version = "v1.1"
 const assets = [
   "/",
   "index.html",
