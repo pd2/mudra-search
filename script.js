@@ -1073,7 +1073,7 @@ let global_clues;
 
 const Place_ID_list = ['A','B','C','D','E','F','G','H'];
 
-const cdn_path = "https://cdn.glitch.global/a2909de0-1e5d-4c2e-8f79-181ca5dfdeda";
+const cdn_path = "assets/";
 
 function CreateGame() {
   
